@@ -1,0 +1,501 @@
+Age,City,Profession,Marital Status,Education,No. of Family members,Annual Income,Would you prefer replacing all your vehicles to Electronic vehicles?,If Yes/Maybe what type of EV would you prefer?,Do you think Electronic Vehicles are economical?,Which brand of vehicle do you currently own?,How much money could you spend on an Electronic vehicle?,Preference for wheels in EV,Do you think Electronic vehicles will replace fuel cars in India?
+34,Chennai,Consultant,Married,Post-Graduate,9,3197012.7820344293,Yes,Sedan,Yes,TVS,<10 lakhs,2,No
+47,Visakhapatnam,Artist,Married,High School,4,342386.82231052604,Yes,SUV,No,Hero,<20 lakhs,2,No
+56,Visakhapatnam,Business,Single,High School,2,4659748.826042173,Maybe,SUV,No,Toyota,<5 lakhs,4,"Yes, in <20 years"
+53,Hyderabad,Accountant,Divorced,Undergraduate,8,4519731.2050458845,Maybe,SUV,Yes,KIA,<15 lakhs,2,"Yes, in <20 years"
+64,Kashipur,Lawyer,Divorced,High School,6,2507395.6069731014,Maybe,Sedan,No,Mahindra,<20 lakhs,3,"Yes, in <10 years"
+38,Bhopal,Lawyer,Single,Post-Graduate,4,3135364.1416465538,Maybe,Hatchback,Yes,Hero,<5 lakhs,3,"Yes, in <10 years"
+44,Bhopal,Journalist,Married,High School,4,477733.0315485362,Maybe,SUV,Yes,Tata,<5 lakhs,2,"Yes, in <10 years"
+47,Satara,Business,Married,Post-Graduate,5,567477.8714246529,No,Sedan,Yes,Tata,<20 lakhs,4,"Yes, in <10 years"
+20,Jaipur,Doctor,Married,Post-Graduate,4,1089132.5501624278,Yes,SUV,Yes,Toyota,<20 lakhs,3,"Yes, in <20 years"
+68,Coimbatore,Student,Married,High School,6,3038110.642171351,No,SUV,Yes,Tata,<15 lakhs,2,No
+75,Kashipur,Teacher,Divorced,Graduate,5,2516115.3954739417,Maybe,Sedan,Yes,KIA,<5 lakhs,2,No
+24,Kashipur,Student,Married,Graduate,8,3693061.807605402,Maybe,Sedan,Yes,TVS,<15 lakhs,2,No
+38,Jaipur,Engineer,Single,Post-Graduate,4,1707158.3891725983,Yes,SUV,Yes,Bajaj,<15 lakhs,3,"Yes, in <20 years"
+52,Jaipur,Doctor,Single,Undergraduate,5,4317394.935037789,No,SUV,Yes,TVS,<10 lakhs,2,No
+76,Hyderabad,Consultant,Divorced,Graduate,3,3225127.8938592677,Maybe,Hatchback,No,Bajaj,<10 lakhs,4,"Yes, in <20 years"
+46,Mumbai,Lawyer,Married,High School,9,3944322.1820342,Yes,Hatchback,No,Honda,<15 lakhs,3,No
+75,Jaipur,Student,Single,High School,5,1514083.4282630659,No,Sedan,No,Toyota,<5 lakhs,3,No
+50,Jaipur,Teacher,Married,Post-Graduate,9,820871.9511695864,No,SUV,Yes,Tata,<10 lakhs,2,"Yes, in <20 years"
+76,Pune,Lawyer,Single,Graduate,4,3768638.872649492,No,Sedan,Yes,Tata,<20 lakhs,3,"Yes, in <20 years"
+52,Coimbatore,Journalist,Divorced,Undergraduate,8,4230060.185099941,Maybe,Bike,Yes,Tata,<5 lakhs,4,No
+47,Nabha,Teacher,Divorced,High School,2,4016095.555548705,Yes,Hatchback,No,Honda,<5 lakhs,3,No
+47,Bhopal,Engineer,Single,Undergraduate,4,202841.64843241702,No,Hatchback,No,Bajaj,<20 lakhs,5,No
+37,Coimbatore,Journalist,Single,Undergraduate,1,1287232.9492186878,No,Sedan,Yes,KIA,<15 lakhs,3,"Yes, in <20 years"
+50,Bangalore,Business,Divorced,High School,1,286626.40078144264,No,Hatchback,Yes,Hero,<15 lakhs,2,No
+79,Pune,Consultant,Single,Post-Graduate,7,416030.8488522224,Maybe,Sedan,Yes,Bajaj,<20 lakhs,4,"Yes, in <20 years"
+76,Bangalore,Student,Married,High School,1,4192332.274865487,Yes,SUV,No,TVS,<15 lakhs,5,"Yes, in <10 years"
+52,Pune,Business,Married,Graduate,9,4802844.861819863,Maybe,Bike,No,Honda,<20 lakhs,4,"Yes, in <20 years"
+55,Bangalore,Lawyer,Single,Post-Graduate,7,4701396.271033401,No,Bike,Yes,Honda,<20 lakhs,3,"Yes, in <10 years"
+26,Pune,Software Developer,Single,Post-Graduate,5,3059544.370632435,No,Bike,No,Hyundai,<15 lakhs,5,"Yes, in <10 years"
+18,Nabha,Business,Single,High School,1,314121.6406443331,No,SUV,No,TVS,<15 lakhs,3,No
+51,Ahmedabad,Software Developer,Single,Post-Graduate,7,3201157.3686698778,No,SUV,No,Tata,<5 lakhs,3,"Yes, in <10 years"
+49,Nabha,Business,Single,Post-Graduate,4,2848218.3714953847,Yes,Sedan,Yes,Honda,<5 lakhs,2,"Yes, in <10 years"
+65,Lucknow,Lawyer,Married,Undergraduate,5,2043484.4998992458,Yes,Hatchback,Yes,TVS,<5 lakhs,4,"Yes, in <10 years"
+41,Kolkata,Consultant,Divorced,High School,9,3315432.0901332507,Maybe,Bike,Yes,Toyota,<5 lakhs,3,"Yes, in <20 years"
+66,Delhi,Consultant,Single,High School,1,3126189.7496989802,Yes,Bike,Yes,Mahindra,<5 lakhs,5,"Yes, in <20 years"
+19,Pune,Student,Divorced,High School,2,4477343.429660148,Yes,SUV,No,Honda,<15 lakhs,5,No
+60,Ahmedabad,Teacher,Single,Post-Graduate,8,2782319.228529615,Maybe,Sedan,Yes,Toyota,<20 lakhs,3,"Yes, in <20 years"
+64,Mumbai,Teacher,Single,Graduate,3,3932761.28504601,Maybe,Sedan,Yes,Mahindra,<10 lakhs,2,"Yes, in <10 years"
+28,Satara,None,Married,Post-Graduate,1,3330410.1640647836,Maybe,Sedan,Yes,Bajaj,<10 lakhs,3,"Yes, in <20 years"
+24,Patna,Engineer,Divorced,High School,5,4889560.852537746,No,Hatchback,No,Hero,<15 lakhs,3,"Yes, in <10 years"
+64,Patna,Lawyer,Married,High School,7,1785460.1914379033,Maybe,Sedan,Yes,Revolt,<5 lakhs,5,"Yes, in <10 years"
+25,Vadodara,Accountant,Married,High School,1,4931364.411970016,Yes,Sedan,Yes,TVS,<10 lakhs,4,"Yes, in <20 years"
+71,Coimbatore,Accountant,Married,Graduate,3,1812485.918315008,Maybe,Hatchback,Yes,TVS,<10 lakhs,2,"Yes, in <20 years"
+22,Bangalore,Engineer,Divorced,High School,7,860078.319270815,Maybe,Hatchback,Yes,TVS,<20 lakhs,5,"Yes, in <20 years"
+19,Hyderabad,Lawyer,Single,Post-Graduate,1,702870.0964207058,Yes,SUV,No,Revolt,<15 lakhs,5,"Yes, in <20 years"
+78,Vadodara,None,Divorced,Graduate,7,4493332.217949702,No,Bike,No,Hero,<5 lakhs,5,No
+46,Ahmedabad,Journalist,Married,High School,5,4371474.698768377,Maybe,SUV,No,Mahindra,<10 lakhs,3,"Yes, in <10 years"
+65,Vadodara,Doctor,Single,Undergraduate,3,2032965.7863084031,No,Bike,No,Hero,<10 lakhs,5,"Yes, in <10 years"
+43,Ahmedabad,Software Developer,Married,Graduate,6,1365131.1710149327,Yes,Hatchback,No,Toyota,<5 lakhs,5,"Yes, in <10 years"
+21,Mumbai,Engineer,Divorced,High School,5,992613.8978612828,No,Bike,No,Revolt,<10 lakhs,4,No
+76,Satara,Accountant,Divorced,High School,8,1689995.0100215832,No,Hatchback,No,Revolt,<20 lakhs,4,"Yes, in <10 years"
+72,Chennai,Journalist,Married,High School,7,2553905.5181601653,Yes,Hatchback,Yes,Mahindra,<20 lakhs,3,No
+25,Vadodara,Engineer,Married,High School,5,4017531.1218523267,No,SUV,Yes,TVS,<20 lakhs,3,No
+22,Visakhapatnam,Teacher,Married,Graduate,5,3088684.9583826773,Yes,SUV,No,Toyota,<10 lakhs,3,No
+71,Patna,Software Developer,Divorced,Post-Graduate,1,2365352.9076643777,Yes,SUV,No,Honda,<10 lakhs,3,"Yes, in <20 years"
+36,Vadodara,Business,Single,Graduate,4,3102345.943217665,Maybe,Sedan,No,KIA,<20 lakhs,2,"Yes, in <10 years"
+29,Vadodara,Teacher,Divorced,Undergraduate,6,1621363.3750315537,Maybe,Hatchback,No,Hyundai,<5 lakhs,5,"Yes, in <20 years"
+37,Patna,Engineer,Single,Graduate,6,2675074.843692753,Maybe,Hatchback,Yes,Revolt,<10 lakhs,2,No
+29,Vadodara,Doctor,Married,Post-Graduate,5,4440421.857514839,No,SUV,Yes,Toyota,<5 lakhs,2,"Yes, in <10 years"
+46,Chennai,Teacher,Divorced,Undergraduate,1,3406707.5076240473,Yes,Bike,No,Toyota,<10 lakhs,4,No
+19,Kashipur,None,Divorced,High School,6,4637121.491428852,Maybe,Sedan,No,KIA,<15 lakhs,4,"Yes, in <20 years"
+44,Ahmedabad,Artist,Married,High School,6,4842310.057751738,Maybe,Bike,Yes,Hero,<15 lakhs,5,"Yes, in <20 years"
+33,Satara,Artist,Divorced,Graduate,6,696846.378154505,No,Bike,No,Hero,<10 lakhs,5,No
+38,Visakhapatnam,Student,Single,Graduate,6,1187809.148259305,Maybe,Bike,Yes,Mahindra,<15 lakhs,4,"Yes, in <10 years"
+33,Chennai,Student,Married,Graduate,9,3167384.833745541,No,Hatchback,Yes,TVS,<10 lakhs,3,No
+46,Patna,Journalist,Divorced,Undergraduate,5,4592398.4516435815,No,SUV,No,Tata,<5 lakhs,4,"Yes, in <20 years"
+74,Ahmedabad,Journalist,Single,Post-Graduate,8,544771.3072060032,Yes,Bike,No,Revolt,<10 lakhs,4,"Yes, in <10 years"
+20,Bhopal,Lawyer,Divorced,Post-Graduate,2,2910595.716657712,No,SUV,Yes,TVS,<5 lakhs,5,No
+62,Satara,Consultant,Single,High School,8,2674916.521250347,Yes,Bike,No,Honda,<5 lakhs,4,"Yes, in <20 years"
+65,Mumbai,Business,Divorced,High School,6,3673775.94549227,No,Sedan,Yes,Tata,<15 lakhs,3,"Yes, in <20 years"
+77,Coimbatore,Consultant,Married,High School,2,3849254.6863131053,No,Sedan,No,Hero,<15 lakhs,3,"Yes, in <10 years"
+42,Delhi,Engineer,Single,Post-Graduate,7,796170.9483928538,Yes,SUV,Yes,Hero,<5 lakhs,5,No
+22,Bangalore,None,Divorced,Undergraduate,4,1850851.804384253,No,Sedan,No,Tata,<10 lakhs,2,"Yes, in <10 years"
+39,Kashipur,Teacher,Married,Graduate,6,1259215.976937802,No,Hatchback,No,Bajaj,<20 lakhs,3,No
+30,Nabha,Doctor,Divorced,Post-Graduate,5,1368652.4430668086,Yes,Sedan,No,Honda,<10 lakhs,4,No
+65,Lucknow,Doctor,Divorced,High School,3,2518897.014168397,No,SUV,No,Hyundai,<10 lakhs,5,No
+79,Hyderabad,Journalist,Divorced,Graduate,6,3164921.0588466837,No,Hatchback,No,Toyota,<15 lakhs,2,"Yes, in <20 years"
+34,Hyderabad,None,Divorced,Post-Graduate,7,1203857.0897489896,No,Bike,Yes,Hyundai,<15 lakhs,2,"Yes, in <10 years"
+49,Vadodara,None,Single,Graduate,8,2731318.0517562246,Maybe,Sedan,No,Bajaj,<20 lakhs,3,"Yes, in <20 years"
+56,Mumbai,Engineer,Divorced,Graduate,1,4376852.698335334,Yes,SUV,Yes,Toyota,<20 lakhs,5,"Yes, in <10 years"
+51,Patna,None,Married,High School,3,2695137.243688572,Maybe,Bike,No,Hero,<10 lakhs,5,"Yes, in <10 years"
+78,Coimbatore,Software Developer,Single,High School,3,1969941.7308662056,Yes,Sedan,No,Toyota,<20 lakhs,2,No
+47,Hyderabad,Engineer,Divorced,High School,1,4930722.301624466,Yes,SUV,No,Hyundai,<5 lakhs,3,"Yes, in <10 years"
+29,Vadodara,Software Developer,Married,High School,6,2291741.160640909,Maybe,Hatchback,Yes,TVS,<20 lakhs,3,"Yes, in <10 years"
+25,Vadodara,Teacher,Divorced,High School,1,1908889.4444549028,Yes,Bike,Yes,Hyundai,<20 lakhs,3,"Yes, in <20 years"
+19,Bangalore,Artist,Divorced,High School,4,1826961.6500220846,Maybe,Sedan,Yes,KIA,<15 lakhs,3,"Yes, in <20 years"
+68,Chennai,Consultant,Single,Graduate,8,2702581.3751103417,Yes,Sedan,Yes,Tata,<20 lakhs,2,"Yes, in <10 years"
+52,Jaipur,Consultant,Single,Graduate,2,3391148.6663337643,Yes,Hatchback,Yes,Hero,<10 lakhs,2,No
+32,Ahmedabad,Journalist,Divorced,High School,3,1936915.2071351607,Yes,Sedan,Yes,Mahindra,<20 lakhs,3,"Yes, in <10 years"
+18,Satara,None,Single,Post-Graduate,2,281253.5213413981,Yes,Bike,Yes,Hyundai,<5 lakhs,3,"Yes, in <20 years"
+79,Mumbai,Artist,Divorced,Graduate,4,177616.14265090748,No,Hatchback,No,Honda,<20 lakhs,4,No
+77,Satara,None,Single,Graduate,7,2846161.792965335,Yes,Bike,Yes,Revolt,<20 lakhs,3,"Yes, in <20 years"
+54,Visakhapatnam,Lawyer,Single,Undergraduate,6,3934884.0969418464,Yes,Sedan,No,Bajaj,<10 lakhs,5,"Yes, in <20 years"
+43,Nabha,Accountant,Married,Post-Graduate,2,2117071.1130376924,Maybe,Bike,Yes,Hero,<20 lakhs,3,"Yes, in <10 years"
+47,Kolkata,None,Divorced,High School,1,4121861.7328628837,Yes,Hatchback,Yes,Tata,<5 lakhs,2,"Yes, in <20 years"
+57,Delhi,Consultant,Divorced,Post-Graduate,4,4389551.3477223115,No,Bike,No,TVS,<5 lakhs,3,"Yes, in <20 years"
+40,Lucknow,Consultant,Married,Graduate,8,793370.5088019549,Yes,Hatchback,No,Hyundai,<15 lakhs,5,"Yes, in <10 years"
+53,Jaipur,Engineer,Married,High School,9,3672906.4354328443,Maybe,SUV,Yes,TVS,<10 lakhs,2,No
+62,Ahmedabad,Teacher,Married,Post-Graduate,6,1637299.602858023,No,Sedan,No,Toyota,<20 lakhs,3,"Yes, in <10 years"
+48,Bangalore,Lawyer,Divorced,Graduate,9,2377492.685233858,Maybe,Bike,No,Honda,<20 lakhs,5,No
+71,Bangalore,Business,Divorced,Post-Graduate,8,3702044.348028442,Maybe,Hatchback,No,Honda,<10 lakhs,3,"Yes, in <20 years"
+39,Ahmedabad,Artist,Divorced,Graduate,4,4048732.9086319744,No,Bike,Yes,Honda,<10 lakhs,4,"Yes, in <20 years"
+47,Pune,Artist,Single,High School,9,4166868.6496134372,No,Sedan,No,Mahindra,<15 lakhs,3,No
+25,Pune,Lawyer,Divorced,Post-Graduate,4,3069839.52587054,Maybe,Sedan,Yes,Hero,<5 lakhs,3,"Yes, in <20 years"
+19,Satara,Business,Single,High School,2,3704828.4509253833,Yes,Hatchback,Yes,Hyundai,<5 lakhs,2,"Yes, in <20 years"
+53,Bangalore,Business,Divorced,High School,1,4900684.597683732,Maybe,SUV,No,Tata,<5 lakhs,3,"Yes, in <20 years"
+65,Visakhapatnam,Consultant,Single,Undergraduate,3,4335272.735638469,Yes,Sedan,No,Mahindra,<15 lakhs,3,No
+73,Bhopal,Artist,Single,Undergraduate,5,4627094.698195987,No,Bike,Yes,Revolt,<15 lakhs,5,"Yes, in <10 years"
+66,Bangalore,Student,Divorced,Undergraduate,6,3245520.3622263684,Yes,Bike,Yes,Hyundai,<5 lakhs,5,"Yes, in <20 years"
+69,Kolkata,Student,Single,High School,6,373526.2877361461,Maybe,Bike,Yes,Honda,<5 lakhs,5,No
+41,Nabha,Artist,Divorced,Post-Graduate,9,2860137.105770449,Maybe,Hatchback,No,KIA,<10 lakhs,2,"Yes, in <20 years"
+37,Coimbatore,None,Married,Graduate,1,1532343.4800419179,No,Bike,Yes,Revolt,<5 lakhs,4,"Yes, in <20 years"
+71,Satara,Doctor,Married,High School,5,2847863.1128820716,No,SUV,Yes,Tata,<10 lakhs,5,"Yes, in <20 years"
+41,Nabha,None,Single,High School,6,3641748.9193087295,Yes,Bike,No,Bajaj,<20 lakhs,5,No
+20,Kolkata,Doctor,Single,High School,1,2900583.5842221505,Maybe,Sedan,No,Tata,<15 lakhs,3,"Yes, in <20 years"
+38,Chennai,Business,Married,Undergraduate,3,2009553.7929005746,Maybe,Bike,No,KIA,<10 lakhs,4,"Yes, in <10 years"
+60,Pune,Consultant,Divorced,Post-Graduate,7,1970175.5997414282,Maybe,SUV,No,TVS,<15 lakhs,4,No
+68,Chennai,Lawyer,Single,Post-Graduate,4,714408.197192196,Maybe,SUV,Yes,Toyota,<15 lakhs,3,"Yes, in <20 years"
+64,Bangalore,None,Single,High School,5,2627701.883002503,Yes,Bike,Yes,Mahindra,<5 lakhs,4,"Yes, in <10 years"
+79,Mumbai,None,Single,Undergraduate,4,3597247.0427305093,Yes,SUV,No,Tata,<10 lakhs,4,"Yes, in <20 years"
+50,Bangalore,Software Developer,Married,Graduate,7,4653300.091652514,Maybe,Bike,Yes,TVS,<15 lakhs,2,"Yes, in <20 years"
+61,Visakhapatnam,Doctor,Divorced,Undergraduate,7,608512.7410665326,No,Bike,Yes,Bajaj,<15 lakhs,3,"Yes, in <10 years"
+66,Bangalore,Business,Married,High School,1,1933826.8243446343,Yes,Hatchback,Yes,Hyundai,<5 lakhs,4,"Yes, in <10 years"
+37,Patna,None,Married,Undergraduate,4,1161678.6815916814,No,SUV,No,Tata,<5 lakhs,3,"Yes, in <20 years"
+20,Bhopal,Engineer,Married,Post-Graduate,5,3423757.387755413,Maybe,Hatchback,Yes,Revolt,<10 lakhs,5,"Yes, in <20 years"
+50,Nabha,Doctor,Married,Post-Graduate,6,2315321.750642857,Maybe,Bike,Yes,TVS,<20 lakhs,4,"Yes, in <10 years"
+59,Patna,Software Developer,Single,Graduate,9,4060432.111519924,Maybe,SUV,Yes,Mahindra,<15 lakhs,2,"Yes, in <20 years"
+35,Kolkata,Consultant,Divorced,High School,5,2565144.5288485037,Yes,Sedan,Yes,TVS,<20 lakhs,2,No
+65,Chennai,Consultant,Divorced,Undergraduate,8,1233837.6218034748,No,Sedan,No,Revolt,<15 lakhs,2,No
+36,Jaipur,Teacher,Divorced,Post-Graduate,2,228501.57886366453,Yes,SUV,Yes,Toyota,<10 lakhs,4,No
+44,Jaipur,Consultant,Single,High School,8,4127730.7695340477,Yes,Bike,Yes,Hyundai,<5 lakhs,4,No
+38,Satara,Lawyer,Single,Post-Graduate,8,423434.45766673854,Maybe,Bike,Yes,TVS,<15 lakhs,2,"Yes, in <10 years"
+36,Pune,Teacher,Married,High School,6,3275322.967512877,Maybe,Hatchback,Yes,Toyota,<20 lakhs,4,"Yes, in <10 years"
+32,Jaipur,Doctor,Single,High School,5,3910981.956154316,Maybe,Sedan,Yes,Honda,<10 lakhs,2,"Yes, in <20 years"
+48,Vadodara,Student,Divorced,Undergraduate,8,1602923.111997573,Yes,Bike,No,KIA,<20 lakhs,2,"Yes, in <10 years"
+23,Patna,Engineer,Single,Undergraduate,7,4530327.964068733,No,Hatchback,No,Bajaj,<10 lakhs,5,"Yes, in <10 years"
+46,Pune,Software Developer,Single,Graduate,1,2059880.8888517763,Maybe,Bike,No,Tata,<20 lakhs,2,"Yes, in <10 years"
+68,Delhi,Teacher,Divorced,High School,3,4390102.725128704,Yes,Sedan,No,Honda,<10 lakhs,2,"Yes, in <10 years"
+77,Patna,Doctor,Married,Graduate,2,2623034.316413105,Maybe,Sedan,No,Revolt,<10 lakhs,3,No
+64,Hyderabad,Artist,Married,Graduate,9,4247792.856725596,Maybe,Sedan,No,Revolt,<10 lakhs,5,"Yes, in <10 years"
+59,Chennai,Engineer,Single,Undergraduate,1,2152478.527171885,Maybe,Sedan,Yes,Honda,<10 lakhs,2,No
+35,Bangalore,Consultant,Single,Post-Graduate,9,3008996.5035935054,Yes,SUV,No,Tata,<5 lakhs,4,"Yes, in <20 years"
+34,Ahmedabad,Teacher,Divorced,Post-Graduate,2,2237744.3868627544,Maybe,Hatchback,Yes,Tata,<10 lakhs,4,"Yes, in <20 years"
+30,Bangalore,Engineer,Divorced,Graduate,7,577404.6376667463,No,Hatchback,Yes,TVS,<5 lakhs,2,"Yes, in <10 years"
+60,Bangalore,Student,Divorced,Post-Graduate,1,977792.0896660826,Yes,Bike,Yes,Revolt,<10 lakhs,2,No
+39,Hyderabad,Student,Divorced,Undergraduate,5,619231.7717162182,No,Bike,No,Revolt,<20 lakhs,5,"Yes, in <20 years"
+23,Nabha,Consultant,Married,Graduate,3,3376212.641866033,Maybe,Sedan,Yes,Bajaj,<5 lakhs,3,No
+73,Hyderabad,Teacher,Single,Undergraduate,5,471249.3170469297,Maybe,Hatchback,No,Toyota,<20 lakhs,3,No
+73,Hyderabad,Doctor,Divorced,Undergraduate,2,3385134.4657867113,No,Hatchback,No,Hero,<20 lakhs,4,"Yes, in <20 years"
+47,Pune,Business,Divorced,Undergraduate,3,2405984.2945782375,Maybe,Hatchback,No,TVS,<10 lakhs,3,"Yes, in <20 years"
+51,Nabha,Artist,Single,Graduate,6,1552266.0129562027,Maybe,SUV,Yes,Hero,<5 lakhs,5,No
+37,Jaipur,Consultant,Divorced,High School,4,3738481.9427271523,Yes,SUV,No,Bajaj,<20 lakhs,5,No
+20,Delhi,Teacher,Single,Post-Graduate,2,3274997.10850116,Yes,SUV,No,Hyundai,<20 lakhs,3,No
+66,Bangalore,Artist,Married,Post-Graduate,2,454059.1371246149,Yes,Hatchback,Yes,Toyota,<20 lakhs,5,"Yes, in <20 years"
+49,Ahmedabad,Teacher,Single,Graduate,6,2556551.086825101,Yes,Sedan,Yes,Hyundai,<5 lakhs,3,"Yes, in <20 years"
+25,Kolkata,Engineer,Single,High School,3,3765547.7543003857,Yes,Hatchback,No,Toyota,<15 lakhs,4,"Yes, in <10 years"
+24,Lucknow,Software Developer,Divorced,Post-Graduate,1,1324585.8955680109,No,SUV,Yes,Hyundai,<15 lakhs,2,"Yes, in <20 years"
+60,Nabha,Doctor,Divorced,Undergraduate,1,2384804.743387419,Maybe,Sedan,Yes,TVS,<20 lakhs,4,"Yes, in <20 years"
+38,Kolkata,Software Developer,Single,Graduate,6,1341085.100893125,Yes,Sedan,No,Hero,<5 lakhs,4,"Yes, in <20 years"
+42,Satara,Student,Divorced,Post-Graduate,5,626093.7565104432,Yes,Bike,No,Revolt,<5 lakhs,3,"Yes, in <10 years"
+45,Chennai,Consultant,Divorced,High School,1,2120805.6554788034,Yes,SUV,No,Hero,<15 lakhs,3,"Yes, in <10 years"
+24,Visakhapatnam,Teacher,Divorced,High School,4,3072091.6187159284,No,SUV,No,Hyundai,<20 lakhs,4,"Yes, in <20 years"
+58,Bangalore,Engineer,Divorced,Post-Graduate,7,1602556.1465997729,No,SUV,No,Toyota,<20 lakhs,5,"Yes, in <10 years"
+66,Kolkata,Artist,Divorced,Post-Graduate,1,2297214.310887667,Maybe,Bike,No,TVS,<10 lakhs,2,No
+74,Bhopal,Teacher,Divorced,Graduate,1,1055383.0235662698,Yes,Bike,No,Mahindra,<15 lakhs,3,"Yes, in <10 years"
+72,Pune,Lawyer,Divorced,Post-Graduate,7,683692.624395561,Maybe,Bike,No,Tata,<10 lakhs,5,No
+66,Kashipur,Accountant,Divorced,High School,7,2122670.8647746705,Yes,Bike,No,Hero,<20 lakhs,5,"Yes, in <20 years"
+19,Kolkata,Student,Married,Post-Graduate,3,344120.28247226786,Maybe,Sedan,Yes,Tata,<5 lakhs,5,No
+32,Pune,Consultant,Married,High School,2,3233127.540539822,No,Hatchback,No,Hyundai,<10 lakhs,3,"Yes, in <20 years"
+33,Bhopal,Consultant,Single,High School,1,3495520.4772876976,Maybe,Hatchback,No,Hero,<5 lakhs,3,"Yes, in <10 years"
+23,Lucknow,Teacher,Single,Graduate,6,4437543.660273727,No,Hatchback,No,Bajaj,<10 lakhs,2,No
+42,Hyderabad,Teacher,Married,Post-Graduate,6,4094193.0289336173,No,Bike,Yes,TVS,<15 lakhs,4,"Yes, in <20 years"
+23,Jaipur,None,Divorced,High School,4,3310915.1611463996,No,Hatchback,Yes,Tata,<20 lakhs,5,"Yes, in <10 years"
+65,Hyderabad,Software Developer,Married,Graduate,5,1900448.8744063345,Yes,Hatchback,No,Mahindra,<15 lakhs,4,"Yes, in <20 years"
+21,Delhi,Software Developer,Single,Post-Graduate,4,1141765.7484254432,No,Sedan,No,TVS,<5 lakhs,2,"Yes, in <10 years"
+62,Pune,Doctor,Married,Undergraduate,4,138692.27312404723,No,SUV,Yes,Revolt,<15 lakhs,3,"Yes, in <10 years"
+28,Visakhapatnam,Software Developer,Single,Graduate,5,4953559.427517497,Yes,SUV,Yes,Tata,<15 lakhs,2,"Yes, in <10 years"
+67,Chennai,Student,Married,Post-Graduate,5,1033590.7933530541,No,Sedan,No,Hyundai,<5 lakhs,2,"Yes, in <20 years"
+69,Bangalore,Doctor,Single,Undergraduate,9,257664.4016551454,No,Bike,No,Toyota,<10 lakhs,5,"Yes, in <10 years"
+46,Jaipur,Journalist,Divorced,High School,8,4701706.578634765,Yes,Sedan,Yes,Revolt,<10 lakhs,2,No
+72,Bhopal,Artist,Single,Graduate,8,610848.4035079461,No,Hatchback,Yes,TVS,<15 lakhs,5,"Yes, in <10 years"
+32,Vadodara,Consultant,Divorced,High School,4,2410787.4671649467,Maybe,Bike,No,Revolt,<15 lakhs,4,"Yes, in <10 years"
+52,Vadodara,Teacher,Divorced,High School,8,4400093.096965523,Maybe,Hatchback,Yes,KIA,<20 lakhs,5,"Yes, in <10 years"
+56,Kolkata,Doctor,Married,Post-Graduate,3,614398.3493770122,Yes,SUV,Yes,Hyundai,<20 lakhs,3,No
+54,Kashipur,Artist,Married,Undergraduate,1,618245.029013842,Maybe,Hatchback,Yes,Tata,<20 lakhs,2,"Yes, in <20 years"
+26,Pune,Doctor,Married,Graduate,3,1797140.3327846883,Yes,Bike,Yes,Toyota,<15 lakhs,5,"Yes, in <10 years"
+38,Mumbai,Teacher,Divorced,Post-Graduate,7,4552154.81008743,No,Sedan,Yes,Toyota,<20 lakhs,2,"Yes, in <10 years"
+31,Vadodara,Lawyer,Married,Post-Graduate,4,2929250.376967243,Yes,Sedan,No,TVS,<15 lakhs,3,"Yes, in <20 years"
+66,Lucknow,None,Married,High School,3,170390.94470228872,Maybe,Sedan,Yes,TVS,<5 lakhs,5,"Yes, in <20 years"
+76,Patna,Business,Married,Graduate,6,2604594.708198495,Yes,Hatchback,No,Toyota,<20 lakhs,3,"Yes, in <10 years"
+38,Kolkata,Student,Single,Undergraduate,7,918664.0851880853,Yes,SUV,No,TVS,<5 lakhs,2,"Yes, in <20 years"
+70,Kashipur,Consultant,Married,High School,6,873687.1726086604,Maybe,Bike,Yes,Hero,<20 lakhs,4,No
+46,Kolkata,Student,Married,High School,3,1997178.1183614421,Maybe,Sedan,No,Honda,<10 lakhs,5,"Yes, in <20 years"
+18,Delhi,Journalist,Divorced,High School,1,3420721.29832313,No,Hatchback,Yes,Toyota,<10 lakhs,5,"Yes, in <20 years"
+24,Hyderabad,None,Single,Undergraduate,3,3062594.116727045,Maybe,Bike,Yes,Tata,<20 lakhs,4,"Yes, in <20 years"
+33,Bhopal,None,Single,High School,7,278189.24102046783,No,Hatchback,Yes,Hero,<20 lakhs,3,No
+73,Satara,Consultant,Single,High School,6,2996817.8164900485,Maybe,Bike,Yes,Hyundai,<5 lakhs,2,"Yes, in <10 years"
+25,Pune,None,Single,Graduate,6,1254121.9490046785,Maybe,Sedan,No,Hyundai,<15 lakhs,4,"Yes, in <10 years"
+27,Jaipur,Doctor,Divorced,Graduate,9,331888.1574656374,Yes,Bike,No,Mahindra,<5 lakhs,2,"Yes, in <20 years"
+78,Visakhapatnam,Lawyer,Married,Graduate,8,4432765.410728355,Yes,Bike,Yes,Tata,<10 lakhs,2,"Yes, in <20 years"
+21,Satara,Teacher,Married,High School,5,2616223.231709369,Yes,Bike,No,Hero,<20 lakhs,3,No
+31,Vadodara,Artist,Single,Graduate,1,4624599.892964527,Maybe,SUV,No,Tata,<10 lakhs,2,No
+34,Lucknow,Accountant,Married,High School,8,1626178.3981937955,Yes,Sedan,Yes,Honda,<20 lakhs,3,No
+70,Nabha,Business,Married,High School,4,4181170.756486448,No,Sedan,No,Hyundai,<20 lakhs,5,No
+42,Patna,Business,Divorced,High School,3,3957869.2045730865,No,Bike,Yes,Toyota,<15 lakhs,4,No
+79,Satara,Journalist,Married,Post-Graduate,2,830706.775390651,Yes,Hatchback,No,Toyota,<5 lakhs,3,"Yes, in <10 years"
+32,Vadodara,Student,Single,High School,3,1038729.1311739051,No,Bike,Yes,Revolt,<20 lakhs,5,"Yes, in <20 years"
+38,Visakhapatnam,Student,Divorced,Post-Graduate,5,115180.59689570275,Yes,Bike,No,Mahindra,<15 lakhs,4,"Yes, in <20 years"
+23,Kashipur,Accountant,Single,Graduate,1,2866628.5691195484,No,Hatchback,No,Mahindra,<10 lakhs,3,"Yes, in <10 years"
+53,Delhi,Consultant,Divorced,Undergraduate,3,2857767.9881631956,Yes,Hatchback,No,TVS,<20 lakhs,3,"Yes, in <20 years"
+59,Satara,Software Developer,Married,High School,3,2414593.9222551794,No,SUV,Yes,Bajaj,<5 lakhs,2,"Yes, in <20 years"
+73,Kolkata,Business,Married,Undergraduate,3,763691.074261852,Yes,Bike,Yes,KIA,<20 lakhs,4,"Yes, in <10 years"
+58,Jaipur,Lawyer,Divorced,Undergraduate,1,4481527.244218381,Yes,Sedan,Yes,Mahindra,<10 lakhs,5,"Yes, in <10 years"
+60,Visakhapatnam,Journalist,Divorced,High School,3,3052476.359306014,Yes,SUV,No,TVS,<5 lakhs,4,No
+65,Kashipur,Software Developer,Married,High School,7,3812714.240027466,Yes,Hatchback,Yes,TVS,<20 lakhs,3,"Yes, in <20 years"
+61,Bangalore,Teacher,Single,Graduate,9,3396103.263766289,No,Bike,No,Toyota,<15 lakhs,3,"Yes, in <20 years"
+65,Satara,Doctor,Married,High School,6,2271528.2874578424,Yes,Sedan,No,Tata,<10 lakhs,5,No
+37,Ahmedabad,Accountant,Divorced,Post-Graduate,5,4493966.47450709,Yes,Bike,No,Mahindra,<5 lakhs,5,No
+19,Bangalore,Engineer,Divorced,Graduate,2,4470490.442936242,Maybe,Hatchback,No,Mahindra,<15 lakhs,3,No
+65,Coimbatore,Consultant,Married,Undergraduate,1,110553.68949515274,No,Hatchback,Yes,Bajaj,<5 lakhs,4,"Yes, in <20 years"
+63,Kolkata,Doctor,Married,Post-Graduate,6,3133048.0536431866,Maybe,Sedan,No,Hero,<20 lakhs,4,"Yes, in <10 years"
+22,Vadodara,Doctor,Married,Graduate,8,2888337.1616427945,Yes,Hatchback,Yes,Hyundai,<20 lakhs,5,"Yes, in <10 years"
+57,Patna,None,Married,Graduate,7,3452155.76155065,No,Sedan,Yes,Revolt,<20 lakhs,2,"Yes, in <10 years"
+63,Kolkata,Artist,Married,High School,9,2763576.1049096016,Maybe,Hatchback,Yes,Revolt,<20 lakhs,5,No
+24,Pune,Teacher,Married,Post-Graduate,2,900383.1384001579,Yes,Bike,Yes,Toyota,<20 lakhs,2,"Yes, in <20 years"
+76,Kolkata,Business,Divorced,Graduate,7,148798.63336826576,No,Bike,No,Tata,<5 lakhs,4,"Yes, in <20 years"
+29,Nabha,None,Divorced,Post-Graduate,5,3752351.9102592412,Yes,Bike,No,Hyundai,<5 lakhs,3,No
+76,Vadodara,Student,Single,Graduate,8,2891604.083294271,Yes,Sedan,No,Hyundai,<15 lakhs,5,No
+46,Satara,Software Developer,Divorced,High School,4,3472990.357835061,Maybe,Sedan,No,Tata,<10 lakhs,3,No
+72,Hyderabad,None,Single,Undergraduate,4,1403698.1618434791,Yes,Sedan,No,Toyota,<10 lakhs,2,"Yes, in <20 years"
+75,Kashipur,Accountant,Divorced,Post-Graduate,2,1686744.8232465177,Yes,SUV,Yes,KIA,<5 lakhs,2,"Yes, in <10 years"
+76,Jaipur,Business,Married,Graduate,9,1813064.7497289523,Yes,Bike,No,Honda,<10 lakhs,5,"Yes, in <20 years"
+69,Visakhapatnam,None,Single,Graduate,2,2619846.3480985607,Maybe,SUV,No,Honda,<5 lakhs,4,No
+19,Jaipur,Teacher,Single,Graduate,9,3077639.1602958534,Maybe,Sedan,No,KIA,<10 lakhs,3,"Yes, in <20 years"
+20,Hyderabad,Journalist,Single,Graduate,5,1373019.8289713117,Yes,Hatchback,No,Toyota,<10 lakhs,2,No
+39,Delhi,Engineer,Single,Graduate,4,2996805.9224581732,Maybe,Hatchback,Yes,Toyota,<10 lakhs,3,"Yes, in <10 years"
+50,Ahmedabad,None,Single,Post-Graduate,9,481136.37381975475,Maybe,SUV,No,Revolt,<5 lakhs,4,"Yes, in <10 years"
+45,Lucknow,Engineer,Single,Graduate,4,577980.924236566,Maybe,SUV,No,KIA,<20 lakhs,2,No
+22,Bhopal,Doctor,Single,Graduate,6,3494817.1694698576,Yes,SUV,No,Tata,<15 lakhs,3,"Yes, in <20 years"
+73,Jaipur,Accountant,Divorced,Graduate,3,3575226.167182283,No,Sedan,Yes,Tata,<10 lakhs,3,No
+63,Ahmedabad,Lawyer,Single,High School,3,4861265.362295087,Maybe,Bike,Yes,Tata,<10 lakhs,3,"Yes, in <20 years"
+26,Delhi,Lawyer,Single,Graduate,9,1348423.6483753817,Yes,Hatchback,Yes,Tata,<20 lakhs,4,No
+67,Coimbatore,Journalist,Single,Post-Graduate,7,4151248.3882912872,Yes,Sedan,No,Toyota,<5 lakhs,5,"Yes, in <10 years"
+19,Visakhapatnam,Consultant,Single,Post-Graduate,2,1432394.7018892057,Yes,Hatchback,Yes,Bajaj,<10 lakhs,3,No
+44,Jaipur,None,Married,Undergraduate,6,3127613.6580071608,No,Bike,Yes,TVS,<5 lakhs,5,No
+46,Vadodara,Journalist,Divorced,Undergraduate,7,2089336.8165759298,Yes,Sedan,Yes,Hyundai,<5 lakhs,3,No
+75,Visakhapatnam,Student,Married,Graduate,3,703120.7022685072,Yes,SUV,No,Tata,<20 lakhs,5,"Yes, in <20 years"
+66,Pune,Artist,Divorced,Graduate,5,4594150.713258374,Yes,Sedan,No,Mahindra,<10 lakhs,2,"Yes, in <10 years"
+42,Kashipur,Artist,Single,Graduate,3,4904874.305315696,Maybe,Bike,No,Toyota,<15 lakhs,2,"Yes, in <20 years"
+27,Nabha,Consultant,Divorced,Post-Graduate,1,4599331.533881852,No,SUV,No,Tata,<20 lakhs,2,No
+70,Ahmedabad,Journalist,Married,Graduate,8,1937710.3263389312,Maybe,Sedan,No,Toyota,<20 lakhs,2,No
+63,Lucknow,Business,Single,Graduate,4,4897854.187548538,No,SUV,Yes,Honda,<10 lakhs,4,No
+29,Kashipur,Artist,Married,Undergraduate,3,353198.7806362362,Yes,SUV,Yes,Hero,<20 lakhs,4,"Yes, in <20 years"
+65,Satara,Teacher,Single,Undergraduate,7,4738498.89621954,Maybe,SUV,Yes,Toyota,<15 lakhs,4,"Yes, in <10 years"
+30,Chennai,Software Developer,Divorced,Graduate,7,831504.3018525091,Maybe,Bike,No,Hyundai,<15 lakhs,5,"Yes, in <10 years"
+54,Kashipur,Doctor,Single,Post-Graduate,1,1163244.5290968816,Yes,Bike,Yes,Hero,<15 lakhs,3,"Yes, in <10 years"
+35,Mumbai,Lawyer,Single,High School,2,658225.4291519294,No,Hatchback,No,Toyota,<20 lakhs,5,No
+48,Ahmedabad,Lawyer,Married,Post-Graduate,2,2787757.29862709,Yes,SUV,Yes,Bajaj,<5 lakhs,3,"Yes, in <20 years"
+39,Ahmedabad,Lawyer,Single,Undergraduate,6,2597118.4232097827,Maybe,Sedan,Yes,Tata,<10 lakhs,4,"Yes, in <20 years"
+62,Kashipur,None,Divorced,Graduate,7,512360.1947103541,No,Bike,Yes,Revolt,<15 lakhs,2,No
+55,Jaipur,Artist,Divorced,Undergraduate,9,2866911.868560389,Maybe,Hatchback,No,Toyota,<20 lakhs,4,No
+56,Pune,Consultant,Married,Post-Graduate,2,560236.1519094929,No,Bike,No,TVS,<20 lakhs,4,"Yes, in <20 years"
+61,Bangalore,Accountant,Single,High School,1,2698609.689716933,Yes,Hatchback,No,KIA,<10 lakhs,2,No
+45,Patna,Teacher,Married,Graduate,6,1923666.2007408745,Yes,Hatchback,No,Tata,<10 lakhs,5,"Yes, in <20 years"
+36,Kashipur,Business,Single,Undergraduate,2,2230425.9919309677,No,Bike,No,Toyota,<5 lakhs,4,"Yes, in <10 years"
+34,Delhi,Journalist,Divorced,Undergraduate,6,693146.0957299642,No,SUV,Yes,KIA,<10 lakhs,4,"Yes, in <20 years"
+60,Nabha,Engineer,Divorced,Graduate,7,3986409.996641914,No,SUV,No,KIA,<10 lakhs,4,"Yes, in <10 years"
+64,Patna,Teacher,Divorced,Post-Graduate,9,4007159.8142487677,Yes,Hatchback,Yes,Toyota,<15 lakhs,5,"Yes, in <20 years"
+62,Delhi,Software Developer,Divorced,Post-Graduate,9,1808620.589809438,Yes,SUV,No,Honda,<15 lakhs,2,"Yes, in <10 years"
+69,Kolkata,Student,Single,Graduate,9,2454052.3403098,Yes,SUV,Yes,Honda,<15 lakhs,4,"Yes, in <20 years"
+19,Hyderabad,Doctor,Divorced,Post-Graduate,9,2285302.841018393,Yes,Bike,Yes,Mahindra,<5 lakhs,2,No
+59,Mumbai,Accountant,Married,Graduate,2,425775.7486258545,Maybe,Sedan,Yes,Mahindra,<5 lakhs,4,No
+71,Visakhapatnam,Accountant,Married,Undergraduate,9,3725180.9661871376,Maybe,Sedan,Yes,Revolt,<5 lakhs,4,No
+49,Visakhapatnam,Consultant,Divorced,Graduate,1,1952387.3504563742,Maybe,SUV,No,Toyota,<5 lakhs,4,No
+42,Hyderabad,Business,Married,Post-Graduate,8,162006.00979903908,Yes,SUV,Yes,Revolt,<5 lakhs,5,No
+32,Vadodara,Lawyer,Divorced,Undergraduate,9,4586022.849996948,Maybe,SUV,Yes,Honda,<15 lakhs,3,No
+26,Jaipur,Journalist,Divorced,Graduate,9,1424835.0512201288,No,SUV,No,KIA,<10 lakhs,3,"Yes, in <20 years"
+45,Vadodara,Artist,Married,High School,4,2717268.3551701885,Maybe,Sedan,No,Mahindra,<20 lakhs,3,"Yes, in <10 years"
+38,Lucknow,Consultant,Single,High School,9,4608236.223498983,Yes,Sedan,No,Mahindra,<15 lakhs,4,"Yes, in <10 years"
+74,Nabha,Consultant,Single,Undergraduate,4,1297334.8904645399,Maybe,SUV,No,TVS,<10 lakhs,4,No
+52,Patna,Business,Married,Undergraduate,7,802483.4632519969,Maybe,Hatchback,No,Tata,<20 lakhs,2,No
+67,Ahmedabad,Consultant,Married,High School,8,4702712.679369409,Maybe,Sedan,Yes,KIA,<20 lakhs,4,"Yes, in <20 years"
+62,Pune,Lawyer,Divorced,Graduate,3,423537.5934525311,No,Bike,No,Hero,<10 lakhs,3,"Yes, in <10 years"
+71,Bhopal,Artist,Single,Graduate,5,1795416.8553892362,Maybe,Sedan,Yes,Revolt,<10 lakhs,2,No
+23,Delhi,Software Developer,Divorced,High School,9,4820171.110220507,Yes,Hatchback,No,TVS,<5 lakhs,4,"Yes, in <10 years"
+18,Bhopal,Business,Divorced,Post-Graduate,4,1388285.931141627,Maybe,Sedan,Yes,Toyota,<20 lakhs,3,No
+58,Coimbatore,Accountant,Divorced,Post-Graduate,7,4050550.0093967686,No,Bike,No,Honda,<5 lakhs,5,"Yes, in <10 years"
+43,Satara,Student,Divorced,Undergraduate,5,3634148.0193227576,Yes,Sedan,Yes,KIA,<20 lakhs,2,"Yes, in <10 years"
+52,Hyderabad,Business,Married,Graduate,8,1967646.5737688344,No,Sedan,No,Hyundai,<20 lakhs,4,No
+32,Mumbai,Teacher,Single,Graduate,6,4806001.443143337,Maybe,Hatchback,No,Mahindra,<10 lakhs,5,"Yes, in <10 years"
+29,Bangalore,Accountant,Single,Graduate,2,4035973.1766586765,Yes,Hatchback,No,TVS,<10 lakhs,2,No
+51,Ahmedabad,Software Developer,Divorced,Undergraduate,8,4246442.678845352,Maybe,Bike,No,TVS,<10 lakhs,3,"Yes, in <10 years"
+54,Kolkata,Student,Single,High School,2,1471368.6216712072,Maybe,Hatchback,Yes,Hyundai,<15 lakhs,4,"Yes, in <20 years"
+18,Ahmedabad,Journalist,Single,Post-Graduate,6,2206701.198674221,Yes,Sedan,No,Bajaj,<5 lakhs,5,No
+38,Kashipur,Student,Single,Post-Graduate,7,866781.0549677119,No,Hatchback,No,KIA,<10 lakhs,5,No
+45,Nabha,Lawyer,Single,Undergraduate,8,4669295.031980656,Maybe,Sedan,Yes,Honda,<15 lakhs,4,No
+49,Vadodara,Consultant,Single,Post-Graduate,7,726109.8034828504,Yes,SUV,Yes,Bajaj,<5 lakhs,5,"Yes, in <20 years"
+50,Kashipur,Artist,Married,Undergraduate,2,1891366.9382954778,Maybe,SUV,No,Mahindra,<15 lakhs,3,"Yes, in <10 years"
+73,Bangalore,Engineer,Single,High School,6,4880540.644801495,Yes,Sedan,Yes,Toyota,<5 lakhs,3,No
+28,Hyderabad,Doctor,Single,Undergraduate,4,819015.0423690797,No,Hatchback,No,Honda,<15 lakhs,3,No
+28,Hyderabad,Doctor,Divorced,Graduate,3,226065.30202973774,Maybe,SUV,Yes,Hero,<20 lakhs,2,No
+60,Ahmedabad,Consultant,Divorced,High School,7,410082.84399084817,No,SUV,Yes,Honda,<15 lakhs,4,No
+58,Vadodara,Artist,Single,Graduate,7,1662824.861355712,No,Sedan,Yes,Mahindra,<20 lakhs,5,No
+59,Kashipur,Software Developer,Married,Undergraduate,2,3191144.2489506667,No,Sedan,No,Hero,<20 lakhs,3,"Yes, in <20 years"
+44,Nabha,Doctor,Single,Post-Graduate,8,2897588.2873409633,Maybe,Sedan,No,TVS,<10 lakhs,3,"Yes, in <20 years"
+63,Nabha,None,Single,Post-Graduate,2,1385189.2637484067,No,SUV,Yes,Revolt,<20 lakhs,2,No
+33,Mumbai,Engineer,Divorced,Graduate,1,4801821.603813951,Yes,Bike,No,Hyundai,<20 lakhs,5,"Yes, in <20 years"
+75,Mumbai,Teacher,Married,Graduate,3,3112285.108360298,No,Sedan,No,Revolt,<15 lakhs,3,No
+60,Bhopal,Doctor,Married,High School,7,4016711.8384434567,Maybe,Sedan,No,KIA,<5 lakhs,4,"Yes, in <10 years"
+31,Jaipur,Accountant,Divorced,Graduate,5,763927.993186265,Maybe,Sedan,Yes,Hyundai,<20 lakhs,2,"Yes, in <20 years"
+61,Lucknow,Engineer,Single,Graduate,4,4189176.264549871,No,Bike,Yes,Hyundai,<10 lakhs,4,"Yes, in <10 years"
+73,Mumbai,None,Divorced,Undergraduate,7,4582407.637927922,Maybe,Bike,Yes,Mahindra,<15 lakhs,4,"Yes, in <20 years"
+47,Mumbai,Journalist,Married,High School,2,3117165.6275993567,No,Bike,Yes,Bajaj,<10 lakhs,5,"Yes, in <10 years"
+46,Delhi,Accountant,Married,Undergraduate,2,1634938.5212808775,Yes,SUV,No,Revolt,<10 lakhs,5,"Yes, in <20 years"
+69,Delhi,Teacher,Single,Undergraduate,6,4363881.012857425,Maybe,Bike,Yes,KIA,<5 lakhs,2,No
+18,Delhi,Journalist,Married,Post-Graduate,5,4426868.503073428,Maybe,Hatchback,No,TVS,<15 lakhs,5,"Yes, in <10 years"
+22,Vadodara,Software Developer,Single,Post-Graduate,6,2154209.5466818605,Maybe,Hatchback,No,Revolt,<5 lakhs,3,"Yes, in <20 years"
+77,Lucknow,Accountant,Single,High School,3,1884892.4488382933,No,Bike,Yes,Revolt,<15 lakhs,4,"Yes, in <10 years"
+28,Hyderabad,Artist,Divorced,Graduate,9,432439.0836435067,Yes,Hatchback,No,Tata,<10 lakhs,5,No
+31,Coimbatore,Doctor,Single,High School,4,2782456.5101462533,Yes,Hatchback,Yes,KIA,<5 lakhs,2,"Yes, in <20 years"
+21,Mumbai,Artist,Divorced,Undergraduate,4,1664114.4062543595,No,Sedan,No,Revolt,<15 lakhs,4,"Yes, in <10 years"
+64,Chennai,None,Divorced,Post-Graduate,6,4892351.696183312,No,Sedan,Yes,Revolt,<10 lakhs,3,"Yes, in <10 years"
+27,Kashipur,Business,Single,Undergraduate,4,3147560.281887,Yes,Bike,Yes,TVS,<15 lakhs,3,No
+48,Pune,Teacher,Single,High School,6,3811716.404188616,Yes,SUV,No,Honda,<20 lakhs,3,"Yes, in <10 years"
+57,Bangalore,Doctor,Single,Undergraduate,1,2080175.6730353546,Maybe,Bike,Yes,Revolt,<20 lakhs,5,"Yes, in <20 years"
+28,Hyderabad,Student,Single,High School,4,2519717.376052213,Yes,Bike,No,Toyota,<20 lakhs,5,No
+76,Lucknow,Teacher,Married,Post-Graduate,3,1045213.0010851767,Maybe,Bike,Yes,Revolt,<5 lakhs,3,"Yes, in <20 years"
+70,Vadodara,Consultant,Single,Undergraduate,5,4171986.3074956704,No,Hatchback,No,Mahindra,<5 lakhs,2,"Yes, in <10 years"
+72,Patna,Doctor,Single,Graduate,4,313465.035637676,No,Hatchback,No,TVS,<20 lakhs,5,"Yes, in <10 years"
+29,Satara,Journalist,Divorced,High School,1,2541435.3390680607,Maybe,Sedan,Yes,Honda,<5 lakhs,2,"Yes, in <20 years"
+49,Bhopal,Artist,Divorced,High School,4,372211.5498810758,No,SUV,No,Tata,<15 lakhs,3,"Yes, in <10 years"
+30,Bhopal,Journalist,Divorced,High School,3,4156968.538180645,Maybe,Sedan,No,Revolt,<20 lakhs,5,"Yes, in <10 years"
+67,Vadodara,Engineer,Married,Post-Graduate,8,4989858.138989853,Yes,SUV,Yes,Honda,<20 lakhs,3,No
+46,Jaipur,Student,Divorced,High School,4,2234323.2162835356,No,SUV,No,Revolt,<5 lakhs,5,"Yes, in <20 years"
+71,Satara,Consultant,Married,Graduate,3,1359053.7440002637,Yes,SUV,Yes,Bajaj,<20 lakhs,4,"Yes, in <20 years"
+52,Hyderabad,Accountant,Married,High School,6,4027332.428144578,No,SUV,No,KIA,<15 lakhs,3,No
+49,Bangalore,Doctor,Divorced,Graduate,2,2235570.2364955046,Maybe,Bike,Yes,KIA,<20 lakhs,2,No
+55,Nabha,Lawyer,Married,Graduate,7,2889846.505428696,Maybe,SUV,Yes,KIA,<20 lakhs,2,"Yes, in <20 years"
+47,Bangalore,Journalist,Divorced,High School,1,870723.5906322752,Yes,Hatchback,No,Honda,<5 lakhs,3,"Yes, in <10 years"
+69,Kashipur,Doctor,Divorced,Undergraduate,9,2701768.003487623,No,Sedan,Yes,Revolt,<15 lakhs,4,"Yes, in <10 years"
+51,Bangalore,Doctor,Single,Post-Graduate,3,1433502.324223666,Yes,Hatchback,No,Bajaj,<5 lakhs,3,"Yes, in <10 years"
+29,Jaipur,Consultant,Married,Graduate,4,3095529.365810143,No,Sedan,No,Mahindra,<5 lakhs,3,No
+40,Satara,Teacher,Single,Post-Graduate,6,4648923.384018112,Yes,SUV,No,Mahindra,<20 lakhs,5,"Yes, in <20 years"
+32,Chennai,Engineer,Divorced,Graduate,6,3417742.5650267918,No,Bike,Yes,Tata,<10 lakhs,4,No
+65,Kashipur,Journalist,Divorced,Post-Graduate,5,4038739.3241926176,Maybe,Bike,No,Honda,<5 lakhs,2,No
+75,Jaipur,Consultant,Single,Undergraduate,7,4643829.266366701,Yes,Sedan,Yes,Mahindra,<10 lakhs,3,No
+77,Patna,Artist,Divorced,High School,9,3804555.868201691,No,Sedan,Yes,Honda,<20 lakhs,3,No
+46,Bhopal,Doctor,Divorced,Post-Graduate,9,392767.3564710452,Yes,Hatchback,Yes,Mahindra,<10 lakhs,3,"Yes, in <10 years"
+49,Kolkata,Teacher,Divorced,Post-Graduate,9,1764877.5564913356,Yes,SUV,Yes,Toyota,<15 lakhs,2,"Yes, in <20 years"
+65,Delhi,Software Developer,Married,Post-Graduate,9,4446163.010054243,Maybe,Hatchback,No,Bajaj,<15 lakhs,4,No
+30,Bangalore,Consultant,Single,High School,3,2727302.663144047,No,Sedan,Yes,Bajaj,<20 lakhs,5,"Yes, in <10 years"
+30,Kashipur,Software Developer,Married,Post-Graduate,8,3370394.763923067,Maybe,SUV,No,Tata,<15 lakhs,3,"Yes, in <10 years"
+32,Mumbai,Student,Divorced,Post-Graduate,9,1704090.6277181217,Maybe,SUV,Yes,KIA,<20 lakhs,5,"Yes, in <10 years"
+69,Pune,Student,Single,Post-Graduate,9,4927583.358172589,Maybe,SUV,No,Hero,<10 lakhs,2,"Yes, in <20 years"
+32,Delhi,Teacher,Married,Undergraduate,6,1303819.9690559723,Yes,Bike,No,TVS,<10 lakhs,4,"Yes, in <20 years"
+72,Visakhapatnam,Accountant,Divorced,Post-Graduate,4,2989878.975613036,Maybe,Sedan,Yes,Revolt,<15 lakhs,3,"Yes, in <20 years"
+29,Kolkata,Student,Single,High School,1,1255645.9360403796,No,Sedan,Yes,Honda,<20 lakhs,5,"Yes, in <10 years"
+52,Coimbatore,Engineer,Single,High School,7,4303667.011797355,Yes,SUV,Yes,Honda,<15 lakhs,2,"Yes, in <10 years"
+46,Satara,Doctor,Divorced,Post-Graduate,1,427364.789189772,No,Hatchback,No,Toyota,<10 lakhs,5,"Yes, in <20 years"
+65,Bangalore,None,Single,Graduate,2,1804471.0461003883,Yes,Bike,No,Bajaj,<15 lakhs,5,"Yes, in <20 years"
+42,Delhi,Student,Divorced,High School,4,1238236.8305584404,No,Bike,Yes,Tata,<20 lakhs,3,"Yes, in <20 years"
+24,Visakhapatnam,Engineer,Married,Undergraduate,9,4940475.1807707045,No,Sedan,No,KIA,<10 lakhs,3,"Yes, in <10 years"
+41,Lucknow,Doctor,Married,High School,1,3232904.550488075,No,SUV,Yes,Mahindra,<10 lakhs,5,"Yes, in <10 years"
+51,Hyderabad,Doctor,Married,High School,1,1701180.6107734926,Yes,Bike,Yes,Hyundai,<15 lakhs,5,"Yes, in <10 years"
+41,Coimbatore,Journalist,Married,Undergraduate,1,3908375.5668955045,Maybe,Sedan,No,Bajaj,<20 lakhs,5,"Yes, in <10 years"
+46,Pune,Lawyer,Married,Post-Graduate,8,2551422.0854312214,Maybe,SUV,No,TVS,<15 lakhs,4,No
+42,Nabha,Doctor,Single,Post-Graduate,9,869098.1266296135,Maybe,Sedan,Yes,Bajaj,<5 lakhs,4,"Yes, in <20 years"
+20,Mumbai,Lawyer,Divorced,High School,5,371266.5047427055,Maybe,Bike,Yes,TVS,<15 lakhs,2,No
+66,Mumbai,None,Single,High School,8,1669279.359162967,Maybe,SUV,Yes,Toyota,<15 lakhs,2,"Yes, in <20 years"
+61,Bangalore,Student,Single,Post-Graduate,4,2119546.47061887,Maybe,Hatchback,No,Hero,<15 lakhs,2,No
+24,Nabha,Teacher,Divorced,Undergraduate,1,604647.8073601059,Maybe,SUV,No,Tata,<15 lakhs,5,"Yes, in <20 years"
+54,Jaipur,Accountant,Single,High School,4,4266718.273852694,No,SUV,Yes,Bajaj,<15 lakhs,5,"Yes, in <10 years"
+62,Lucknow,Accountant,Married,High School,3,2365091.392281032,Yes,Sedan,No,Toyota,<20 lakhs,2,No
+48,Patna,Business,Single,High School,1,4469923.763692728,Maybe,SUV,No,Toyota,<20 lakhs,3,"Yes, in <10 years"
+20,Kashipur,Software Developer,Divorced,Undergraduate,7,3239957.1554292496,No,Sedan,No,Bajaj,<5 lakhs,4,No
+58,Delhi,Accountant,Married,Graduate,4,4960352.334840955,Yes,SUV,No,TVS,<15 lakhs,2,No
+62,Lucknow,Artist,Single,Graduate,3,3806305.3984496053,Yes,SUV,No,Honda,<15 lakhs,3,"Yes, in <20 years"
+76,Coimbatore,Teacher,Single,Graduate,5,560800.5562390101,No,SUV,Yes,Tata,<5 lakhs,5,No
+18,Hyderabad,Lawyer,Divorced,Graduate,1,2357450.7607910987,No,Sedan,No,Tata,<15 lakhs,4,"Yes, in <20 years"
+49,Coimbatore,Business,Single,Undergraduate,1,2923724.2153686313,No,SUV,Yes,Hyundai,<5 lakhs,2,No
+37,Kashipur,Artist,Divorced,Graduate,6,2866844.53843504,Yes,Bike,Yes,Hero,<10 lakhs,4,No
+51,Jaipur,Consultant,Single,Undergraduate,9,2868427.199326883,Yes,Sedan,No,Honda,<20 lakhs,2,No
+21,Ahmedabad,Student,Single,Post-Graduate,3,882843.3582261044,Yes,Hatchback,Yes,Mahindra,<10 lakhs,5,"Yes, in <20 years"
+42,Lucknow,Doctor,Married,Post-Graduate,9,547359.1326282141,Maybe,Bike,Yes,Toyota,<15 lakhs,4,"Yes, in <10 years"
+33,Mumbai,Artist,Divorced,High School,9,3689399.781586737,No,SUV,Yes,Mahindra,<10 lakhs,2,"Yes, in <20 years"
+55,Vadodara,Student,Divorced,Graduate,5,3467087.6407689676,Yes,Bike,Yes,Toyota,<20 lakhs,5,"Yes, in <20 years"
+18,Satara,Student,Single,Graduate,6,2161482.6561377887,No,Hatchback,No,Hyundai,<20 lakhs,3,"Yes, in <10 years"
+44,Bhopal,Business,Married,Post-Graduate,9,713103.1214301256,No,Hatchback,Yes,Honda,<15 lakhs,3,"Yes, in <20 years"
+67,Bhopal,Artist,Divorced,Undergraduate,7,1604594.9193895073,Yes,Sedan,No,Mahindra,<20 lakhs,5,No
+27,Pune,Software Developer,Married,Post-Graduate,5,1877810.3040255303,Yes,Hatchback,No,Hero,<15 lakhs,5,"Yes, in <10 years"
+54,Pune,Software Developer,Married,Graduate,8,3476716.154388637,Maybe,Hatchback,Yes,Tata,<15 lakhs,4,"Yes, in <10 years"
+20,Nabha,Lawyer,Divorced,Undergraduate,8,4840954.514892997,Yes,Hatchback,No,Hero,<20 lakhs,2,"Yes, in <20 years"
+43,Kolkata,Student,Married,Post-Graduate,7,870569.3705993734,Yes,SUV,No,KIA,<5 lakhs,4,"Yes, in <10 years"
+46,Chennai,None,Married,High School,1,2742386.4890928646,Maybe,Hatchback,Yes,Hyundai,<10 lakhs,2,"Yes, in <20 years"
+78,Lucknow,Engineer,Single,Undergraduate,5,2540297.608295129,Yes,Sedan,Yes,Bajaj,<5 lakhs,3,"Yes, in <10 years"
+46,Bangalore,Accountant,Single,High School,8,4955643.308778912,Maybe,SUV,Yes,Tata,<5 lakhs,2,"Yes, in <10 years"
+40,Pune,Accountant,Divorced,High School,4,1749274.8589611312,No,Sedan,No,TVS,<5 lakhs,3,"Yes, in <10 years"
+47,Visakhapatnam,Lawyer,Single,Post-Graduate,6,875909.4884010695,Yes,SUV,Yes,Mahindra,<20 lakhs,4,No
+39,Patna,Student,Divorced,Graduate,1,334182.9598236864,No,SUV,Yes,Tata,<5 lakhs,3,No
+50,Bangalore,Student,Married,Graduate,3,1822041.2014011878,Maybe,Hatchback,Yes,Hero,<5 lakhs,5,No
+53,Bangalore,Journalist,Divorced,Graduate,5,594208.25627455,Maybe,Hatchback,No,Honda,<20 lakhs,2,No
+37,Pune,Consultant,Divorced,Post-Graduate,7,250033.04534344052,Yes,SUV,No,Mahindra,<20 lakhs,4,No
+62,Pune,Software Developer,Single,Graduate,1,1062158.6339873609,Maybe,Sedan,No,Mahindra,<5 lakhs,5,"Yes, in <10 years"
+51,Visakhapatnam,Accountant,Single,Undergraduate,7,1520862.4277162044,Maybe,Hatchback,No,Hyundai,<5 lakhs,4,"Yes, in <20 years"
+21,Vadodara,Journalist,Married,Post-Graduate,1,3049568.5397081734,Yes,SUV,No,Bajaj,<15 lakhs,3,No
+50,Kolkata,Lawyer,Single,Undergraduate,1,1486758.5070024969,No,SUV,Yes,Hero,<15 lakhs,4,"Yes, in <10 years"
+18,Hyderabad,Engineer,Single,High School,3,3778209.468285982,Maybe,SUV,Yes,Hyundai,<20 lakhs,5,"Yes, in <10 years"
+25,Hyderabad,Lawyer,Single,Undergraduate,4,3640467.517476989,No,Sedan,Yes,Hero,<5 lakhs,4,No
+23,Coimbatore,Doctor,Married,High School,8,450954.033824242,Yes,SUV,Yes,KIA,<20 lakhs,5,"Yes, in <20 years"
+53,Nabha,Teacher,Single,Post-Graduate,8,808598.7269396675,No,Bike,Yes,Honda,<15 lakhs,5,"Yes, in <20 years"
+34,Patna,Doctor,Married,Graduate,8,3276521.7065360704,Maybe,SUV,No,Mahindra,<15 lakhs,4,"Yes, in <10 years"
+30,Chennai,Teacher,Married,Post-Graduate,7,3648165.47622459,Yes,Hatchback,Yes,Hyundai,<15 lakhs,3,"Yes, in <10 years"
+46,Bhopal,Teacher,Divorced,Post-Graduate,7,1361826.952121821,No,SUV,Yes,Mahindra,<20 lakhs,5,No
+79,Bhopal,Lawyer,Divorced,Undergraduate,4,4494407.9766499875,No,Hatchback,Yes,Revolt,<10 lakhs,4,No
+43,Satara,Accountant,Married,High School,1,583870.1580716274,Yes,Bike,Yes,Tata,<20 lakhs,4,"Yes, in <20 years"
+26,Nabha,Accountant,Married,Graduate,5,4248495.289581224,Yes,Bike,No,Hyundai,<5 lakhs,4,No
+40,Nabha,Journalist,Divorced,High School,8,3728224.700577425,No,Hatchback,No,Mahindra,<10 lakhs,4,"Yes, in <20 years"
+62,Kashipur,Engineer,Married,Graduate,9,4227260.475508029,Maybe,Sedan,Yes,Toyota,<20 lakhs,5,"Yes, in <20 years"
+55,Satara,Consultant,Divorced,High School,1,4404246.102180502,Maybe,Sedan,No,TVS,<5 lakhs,2,No
+29,Mumbai,Teacher,Married,Post-Graduate,7,4900581.747794834,Maybe,Hatchback,Yes,Hero,<10 lakhs,3,No
+57,Ahmedabad,Doctor,Married,High School,2,279540.4464610225,Yes,Sedan,Yes,Toyota,<20 lakhs,2,"Yes, in <10 years"
+47,Visakhapatnam,Engineer,Divorced,Graduate,9,2729408.4646525346,No,SUV,No,Bajaj,<10 lakhs,4,"Yes, in <10 years"
+78,Satara,Engineer,Married,High School,2,4289233.884737452,No,Bike,No,Tata,<20 lakhs,3,"Yes, in <10 years"
+23,Bhopal,Student,Single,High School,4,2899852.419473079,Yes,Hatchback,Yes,Tata,<5 lakhs,5,No
+32,Coimbatore,Doctor,Divorced,Post-Graduate,9,2166709.1682124557,Yes,Bike,No,Hero,<5 lakhs,3,"Yes, in <10 years"
+56,Pune,None,Divorced,Graduate,4,3225642.3934900886,No,Hatchback,Yes,Tata,<15 lakhs,3,No
+43,Nabha,Business,Single,Post-Graduate,4,3572504.136037703,No,SUV,Yes,Revolt,<15 lakhs,3,"Yes, in <10 years"
+53,Nabha,Artist,Single,Graduate,5,790995.2271326436,Yes,Sedan,No,Bajaj,<5 lakhs,2,"Yes, in <20 years"
+70,Hyderabad,Engineer,Single,Post-Graduate,5,3947494.751355741,No,Sedan,Yes,Tata,<20 lakhs,2,"Yes, in <20 years"
+61,Hyderabad,Business,Single,High School,6,272206.54159454495,No,Sedan,Yes,Toyota,<15 lakhs,3,No
+45,Kolkata,Doctor,Divorced,Post-Graduate,3,4315523.132472335,Maybe,Sedan,No,Toyota,<20 lakhs,5,No
+39,Visakhapatnam,Software Developer,Divorced,High School,1,1175514.9822813882,Yes,Bike,Yes,Toyota,<15 lakhs,4,"Yes, in <10 years"
+79,Mumbai,Artist,Divorced,Graduate,9,4559744.147060934,No,Hatchback,Yes,Bajaj,<5 lakhs,4,"Yes, in <20 years"
+52,Kashipur,Artist,Single,Graduate,7,3167041.840902018,Maybe,SUV,No,Hyundai,<15 lakhs,5,No
+55,Bhopal,Business,Single,Post-Graduate,8,2456448.619141418,Yes,Sedan,No,Hyundai,<5 lakhs,2,"Yes, in <20 years"
+39,Hyderabad,Engineer,Married,Graduate,9,1426013.2657503954,Maybe,Hatchback,No,Toyota,<5 lakhs,3,"Yes, in <10 years"
+25,Mumbai,Consultant,Divorced,Graduate,4,1723361.8564264567,Maybe,Sedan,Yes,Bajaj,<15 lakhs,3,"Yes, in <20 years"
+65,Mumbai,Journalist,Single,Undergraduate,6,492370.9637688467,No,SUV,No,Revolt,<5 lakhs,3,"Yes, in <10 years"
+34,Kashipur,Engineer,Divorced,Undergraduate,4,387022.92209415574,No,Sedan,Yes,TVS,<15 lakhs,3,"Yes, in <20 years"
+49,Pune,Lawyer,Married,High School,3,1730237.6896592618,No,Bike,No,Revolt,<5 lakhs,3,No
+79,Pune,Artist,Divorced,Undergraduate,3,4216224.511959506,No,Sedan,No,TVS,<5 lakhs,5,"Yes, in <10 years"
+35,Lucknow,Artist,Single,Graduate,3,247816.79587160866,Yes,SUV,No,Toyota,<10 lakhs,5,"Yes, in <20 years"
+33,Ahmedabad,None,Married,Graduate,7,4894245.10057372,Maybe,Bike,No,Hyundai,<20 lakhs,4,"Yes, in <20 years"
+66,Coimbatore,Doctor,Divorced,High School,6,2748058.109184166,Maybe,Hatchback,Yes,Toyota,<20 lakhs,5,"Yes, in <10 years"
+62,Lucknow,Consultant,Divorced,High School,2,4731546.036160437,Maybe,Hatchback,No,Toyota,<20 lakhs,5,"Yes, in <10 years"
+24,Delhi,Artist,Single,High School,4,1780474.8342526702,Yes,Hatchback,No,Revolt,<5 lakhs,3,"Yes, in <10 years"
+59,Ahmedabad,None,Married,Graduate,7,1959852.256195308,Maybe,Sedan,Yes,Tata,<5 lakhs,2,"Yes, in <10 years"
+35,Nabha,Software Developer,Single,Post-Graduate,4,637577.2775224313,Maybe,SUV,Yes,Bajaj,<10 lakhs,4,"Yes, in <20 years"
+28,Jaipur,Consultant,Divorced,Post-Graduate,6,2328932.984475723,Maybe,Bike,Yes,Tata,<15 lakhs,3,"Yes, in <20 years"
+20,Hyderabad,Artist,Single,High School,6,1179416.1405328817,Maybe,Hatchback,No,Revolt,<15 lakhs,5,"Yes, in <10 years"
+44,Lucknow,Teacher,Divorced,High School,1,4497347.0104060825,Yes,Bike,No,Honda,<15 lakhs,2,No
+36,Kolkata,Consultant,Married,Undergraduate,8,4230592.416272847,Yes,Hatchback,No,Hero,<15 lakhs,3,"Yes, in <20 years"
+45,Vadodara,Lawyer,Married,Post-Graduate,6,3851507.987422752,Yes,Hatchback,Yes,Honda,<5 lakhs,4,"Yes, in <20 years"
+31,Nabha,Lawyer,Divorced,Undergraduate,5,4950061.916600868,Yes,Sedan,Yes,Hero,<10 lakhs,5,"Yes, in <10 years"
+54,Kolkata,Artist,Married,Post-Graduate,3,544435.8747043565,Maybe,Bike,Yes,Toyota,<5 lakhs,4,"Yes, in <10 years"
+42,Bangalore,Accountant,Divorced,Post-Graduate,3,2689957.522573702,No,Hatchback,No,Tata,<15 lakhs,5,No
+32,Mumbai,Artist,Married,Undergraduate,3,2044516.008114018,Yes,Sedan,Yes,Bajaj,<20 lakhs,4,"Yes, in <10 years"
+32,Nabha,Accountant,Married,Post-Graduate,4,2732472.939329414,No,Hatchback,Yes,Honda,<5 lakhs,3,"Yes, in <20 years"
+68,Visakhapatnam,Engineer,Single,High School,5,835795.902548047,Yes,SUV,No,Tata,<20 lakhs,4,"Yes, in <20 years"
+23,Coimbatore,Artist,Single,Post-Graduate,5,3211863.4648702666,No,Hatchback,Yes,Hero,<5 lakhs,5,"Yes, in <10 years"
+53,Lucknow,Business,Divorced,High School,6,2462831.2549647875,Yes,Bike,Yes,Bajaj,<15 lakhs,4,"Yes, in <20 years"
+29,Coimbatore,Business,Single,Undergraduate,8,1410397.2327806947,Maybe,Bike,Yes,Tata,<10 lakhs,2,"Yes, in <20 years"
+70,Bhopal,Accountant,Divorced,High School,5,4705746.050787006,Maybe,Sedan,Yes,Honda,<20 lakhs,5,"Yes, in <10 years"
+27,Chennai,None,Divorced,Post-Graduate,6,3157600.5477484944,No,SUV,Yes,Hero,<20 lakhs,4,"Yes, in <10 years"
+72,Chennai,Engineer,Single,Undergraduate,8,1293177.2284184361,Yes,SUV,No,KIA,<5 lakhs,3,No
+34,Vadodara,Doctor,Married,High School,4,976909.1391135283,Yes,SUV,No,KIA,<15 lakhs,3,No
+55,Hyderabad,Consultant,Divorced,High School,3,292309.0908378619,Yes,SUV,No,Tata,<10 lakhs,2,"Yes, in <20 years"
+31,Nabha,Consultant,Married,Graduate,4,2409469.493614373,No,Sedan,No,Toyota,<15 lakhs,3,"Yes, in <20 years"
+52,Kolkata,Accountant,Single,Graduate,2,1014842.7890255749,No,Hatchback,No,TVS,<15 lakhs,2,No
+57,Lucknow,Engineer,Divorced,Post-Graduate,8,1790004.4945825387,No,SUV,No,Toyota,<20 lakhs,3,No
+48,Mumbai,Software Developer,Married,Graduate,2,4266291.274429321,Yes,Sedan,Yes,Revolt,<10 lakhs,4,"Yes, in <20 years"
+24,Jaipur,Doctor,Single,Undergraduate,5,2365662.8042180613,Maybe,Bike,No,Tata,<10 lakhs,5,"Yes, in <10 years"
+32,Kashipur,Doctor,Divorced,Undergraduate,9,764650.9501208692,No,Hatchback,Yes,Bajaj,<15 lakhs,4,No
+73,Hyderabad,Journalist,Married,Graduate,6,3718689.8870153506,No,Hatchback,No,Hero,<5 lakhs,2,"Yes, in <20 years"
+67,Lucknow,Consultant,Divorced,Graduate,4,2847283.2627296685,Yes,Sedan,No,Bajaj,<20 lakhs,5,No
+52,Kolkata,Consultant,Divorced,High School,3,2965567.350499525,No,Bike,Yes,Hero,<15 lakhs,4,"Yes, in <10 years"
+25,Satara,Lawyer,Married,Graduate,4,2792143.4625932686,No,Hatchback,Yes,Revolt,<15 lakhs,3,"Yes, in <20 years"
+55,Mumbai,None,Single,Undergraduate,9,2813886.653391571,Maybe,Sedan,Yes,Mahindra,<5 lakhs,2,No
+18,Visakhapatnam,Software Developer,Divorced,Post-Graduate,8,1279151.9334899127,Yes,Bike,Yes,Honda,<10 lakhs,2,"Yes, in <20 years"
+19,Chennai,Artist,Single,Post-Graduate,7,4094464.6600908036,No,SUV,No,Honda,<10 lakhs,2,"Yes, in <10 years"
+56,Mumbai,Artist,Married,High School,9,3572606.5915506235,No,Sedan,No,Mahindra,<10 lakhs,3,"Yes, in <10 years"
+41,Coimbatore,Journalist,Married,Undergraduate,9,2246727.358773304,No,Bike,Yes,Mahindra,<5 lakhs,2,"Yes, in <10 years"
+47,Kashipur,None,Married,Post-Graduate,4,3952282.133113369,Maybe,Hatchback,No,Hyundai,<10 lakhs,5,No
+36,Coimbatore,Student,Married,High School,3,4611169.415483029,No,Sedan,Yes,TVS,<20 lakhs,2,"Yes, in <20 years"
+26,Kashipur,Student,Divorced,Undergraduate,4,2254295.586096086,No,Sedan,Yes,TVS,<15 lakhs,4,"Yes, in <20 years"
+56,Bangalore,Engineer,Divorced,High School,4,4786314.575435099,Maybe,Sedan,Yes,Mahindra,<5 lakhs,3,"Yes, in <20 years"
+49,Vadodara,Software Developer,Divorced,Post-Graduate,6,1862118.3015216475,Yes,Bike,Yes,Hyundai,<20 lakhs,5,"Yes, in <10 years"
+53,Kolkata,Consultant,Single,Post-Graduate,3,4484466.428430904,Maybe,Hatchback,No,Bajaj,<20 lakhs,4,"Yes, in <20 years"
+36,Jaipur,Lawyer,Married,Post-Graduate,4,2958634.3521006037,Maybe,Hatchback,No,Honda,<20 lakhs,5,No
+20,Jaipur,Accountant,Divorced,High School,4,4554280.274386067,Maybe,SUV,No,KIA,<15 lakhs,4,"Yes, in <20 years"
+68,Chennai,Accountant,Divorced,Post-Graduate,4,1745891.2018544478,Maybe,Hatchback,Yes,Honda,<15 lakhs,4,No
+42,Nabha,Software Developer,Single,Post-Graduate,4,1385779.2705812643,Maybe,Bike,Yes,Toyota,<20 lakhs,5,"Yes, in <10 years"
+68,Vadodara,Doctor,Divorced,High School,7,3989374.994106326,Maybe,Hatchback,Yes,Mahindra,<15 lakhs,4,"Yes, in <20 years"
+43,Satara,Software Developer,Divorced,Undergraduate,7,3557832.4784558653,Yes,Sedan,No,Hyundai,<5 lakhs,3,"Yes, in <10 years"
+27,Bangalore,Accountant,Divorced,Undergraduate,9,1413528.3285175664,Yes,Hatchback,Yes,Honda,<5 lakhs,5,"Yes, in <20 years"
+74,Ahmedabad,None,Divorced,Undergraduate,3,3411643.571363934,Maybe,SUV,No,Honda,<15 lakhs,4,No
+20,Bangalore,Artist,Married,Post-Graduate,5,4905509.23564205,Maybe,Hatchback,Yes,TVS,<20 lakhs,4,"Yes, in <10 years"
+50,Jaipur,Teacher,Divorced,Post-Graduate,4,3396020.8866925947,Maybe,SUV,Yes,Hyundai,<5 lakhs,4,"Yes, in <20 years"
+49,Kashipur,Journalist,Married,Undergraduate,2,1686098.1696326209,Yes,Bike,Yes,KIA,<5 lakhs,3,No
+65,Kolkata,Journalist,Married,Graduate,2,2364393.6297727916,No,Hatchback,No,Bajaj,<5 lakhs,2,"Yes, in <20 years"
